@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Benhammoute</h1>
 <p align="center">
-  <img src="path_to_your_gif.gif" width="300" height="300" alt="animation.gif" style="border-radius: 50%;">
+  <img src="cat.gif" width="300" height="300" alt="animation.gif" style="border-radius: 50%;">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
