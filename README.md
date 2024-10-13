@@ -1,50 +1,28 @@
-# Mohammed Benhammoute
+<h1 align="center">Hi 👋, I'm Mohammed Benhammoute</h1>
+<p align="center">[GIF Placeholder: Add your GIF here]</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-![Banner Image](https://your-image-url-here.com/banner.png)
+# 💫 About Me:
+As a software engineering student at INPT Rabat, I'm passionate about competitive programming and low-level programming. I'm always curious to understand how complex technologies work behind the scenes. My journey in software engineering has equipped me with a diverse set of skills and technologies, allowing me to tackle various challenges in the field.<br><br>I've developed proficiency in multiple programming languages and frameworks, enabling me to build robust and efficient solutions. My enthusiasm for competitive programming has honed my problem-solving skills and algorithmic thinking, which I apply to real-world software development scenarios.<br><br>I'm particularly interested in delving deep into system architectures and optimizing code for performance. Whether it's working with distributed systems or exploring the intricacies of compiler design, I'm always eager to expand my knowledge and push the boundaries of what's possible in software engineering.
 
-## About Me
-👨‍💻 Software Engineering Student at INPT Rabat
-🏆 Competitive Programming Enthusiast
-🔬 Passionate about Low-Level Programming
-🧠 Always curious to understand how complex technologies work behind the scenes
+![](https://komarev.com/ghpvc/?username=Mohammed-BENHAMMOUTE&color=447ff7&label=Visitor+count)
 
-## 🛠 Tech Stack
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![GraalVM](https://img.shields.io/badge/GraalVM-EA2845?style=for-the-badge&logo=graalvm&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka)
-![GraalVM](https://img.shields.io/badge/-GraalVM-4B32C3?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-BENHAMMOUTE&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-BENHAMMOUTE&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-BENHAMMOUTE&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-BENHAMMOUTE)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-BENHAMMOUTE&show_icons=true&theme=radical)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Featured Projects
-[Project Image 1](https://your-project-image-url-1.com)
-### Project 1 Name
-Brief description of your project
-
-[Project Image 2](https://your-project-image-url-2.com)
-### Project 2 Name
-Brief description of your project
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Mohammed-BENHAMMOUTE)
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
