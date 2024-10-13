@@ -1,4 +1,4 @@
-# Mohammed Benhammoute
+#                                                                                 Mohammed Benhammoute
 
 ## About Me
 👨‍💻 Software Engineering Student at INPT Rabat
@@ -12,11 +12,12 @@
 - Databases: PostgreSQL, Redis, MongoDB
 - Other: Kafka, GraalVM, LangChain
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-BENHAMMOUTE)](https://git.io/streak-stats)
+
 
 
 ## 📊 GitHub Stats
-[You can insert GitHub stats here using GitHub README stats tools]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-BENHAMMOUTE)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-BENHAMMOUTE&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 [List 2-3 of your best projects with brief descriptions and links]
