@@ -4,9 +4,7 @@
   <img src="cat.gif" width="300" height="300" alt="animation.gif" style="border-radius: 50%;">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" height="300" alt="animated gif" style="border-radius: 50%;">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
 🎓 Software Engineering Student at INPT Rabat<br>
