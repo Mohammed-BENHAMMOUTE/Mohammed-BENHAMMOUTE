@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Benhammoute</h1>
 
 <p align="center" >
-  <img src="cat.gif" width="200" height="200" alt="animation.gif" style="border-radius: 50%;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4emZwM2ZqNzk4dXJldmZjdmVvM3BhbGkzbTZuZGRjZWJxcGQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="300" alt="animation.gif" style="border-radius: 50%;">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -10,7 +10,6 @@
 🎓 Software Engineering Student at INPT Rabat<br>
 💻 Full Stack Developer with a passion for Backend and Low-Level Programming<br>
 🏆 Competitive Programming Enthusiast in my free time<br>
-🔍 Always curious to understand complex technologies behind the scenes
 
 ![](https://komarev.com/ghpvc/?username=Mohammed-BENHAMMOUTE&color=447ff7&label=Visitor+count)
 
